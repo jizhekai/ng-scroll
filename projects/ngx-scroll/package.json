@@ -1,0 +1,24 @@
+{
+  "name": "ngx-scroll",
+  "version": "1.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14",
+    "rxjs": "^6.4.0"
+  },
+  "description": "angular scroll with rxjs",
+  "keywords": [
+    "angular-scroll",
+    "ng-scroll",
+    "ngx-scroll",
+    "scroll",
+    "rxjs-scroll",
+    "rxjs"
+  ],
+  "author": {
+    "name": "Kayin",
+    "email": "jizhekai@gmail.com",
+    "url": "https://github.com/jizhekai"
+  },
+  "license": "MIT"
+}
