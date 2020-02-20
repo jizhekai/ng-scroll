@@ -1,6 +1,6 @@
 {
   "name": "ngx-scroll",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "peerDependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14",
@@ -19,6 +19,10 @@
     "name": "Kayin",
     "email": "jizhekai@gmail.com",
     "url": "https://github.com/jizhekai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jizhekai/ng-scroll.git"
   },
   "license": "MIT"
 }
