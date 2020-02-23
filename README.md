@@ -60,7 +60,7 @@ import { Component } from '@angular/core';
   styles: [
     `
       .scroll {
-        height: 100px;
+        max-height: 100px;
         overflow: scroll;
       }
     `
